@@ -1,4 +1,4 @@
-# Reliable Data Transfer with Congestion Control
+# Reliable Data Transfer Protocol with Congestion Control
 
 The project implements a reliable transfer protocol on top of UDP using congestion control strategies inspired by TCP.
 
